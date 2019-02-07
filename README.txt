@@ -1,6 +1,3 @@
-A multi-processing command shell implemented using C++. Can parse user command, interact with the environment and redirect input and output.
-
-
 Using and Testing myShell
 
 Nibo Ying  12/04/2018   ny38
